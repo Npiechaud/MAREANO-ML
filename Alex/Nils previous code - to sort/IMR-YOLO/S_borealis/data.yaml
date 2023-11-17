@@ -1,0 +1,7 @@
+path: C:\Users\Schimel_Alexandre\Code\Python\IMR-YOLO\S_borealis # dataset root dir - can be relative to repo pathway
+train: ./train/images # train images (relative to 'path')
+val: ./valid/images # val images (relative to 'path')
+test:  ./test/images # test images (optional)
+#Classes
+nc: 1  # number of classes
+names: ['S.borealis'] # classes names
