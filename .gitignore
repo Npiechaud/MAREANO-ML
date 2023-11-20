@@ -1,2 +1,7 @@
 # YOLO pt files (model weights)
 *.pt
+
+# YOLO runs folders
+runs/
+Alex/runs/
+Nils/runs
